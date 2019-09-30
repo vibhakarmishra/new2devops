@@ -1,2 +1,6 @@
 Hi there, this is my first file on git.
+this is new line
+with new code
+this is second error is inserted, new erorr new line
 Hi Hello super ello
+new line too
