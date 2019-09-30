@@ -1,3 +1,0 @@
-Hi there, this is my first file on git.
-This is new code
-Hi Hello super ello
