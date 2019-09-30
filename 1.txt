@@ -2,5 +2,7 @@ Hi there, this is my first file on git.
 this is new line
 with new code
 this is second error is inserted, new erorr new line
+This is new code
+>>>>>>> cf67bc41a1eb1781643aabd95ce2f5e9d15f01a9
 Hi Hello super ello
 new line too
